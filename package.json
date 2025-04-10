@@ -1,0 +1,8 @@
+{
+  "name": "cors-proxy-attila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
